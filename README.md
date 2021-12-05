@@ -1,4 +1,4 @@
-﻿# Member Management
+﻿# Member Management API
 
 This project was generated with `.Net Core Web API` & `.Net Core xUnit Test`
 
@@ -8,8 +8,8 @@ This project was generated with `.Net Core Web API` & `.Net Core xUnit Test`
 
 ## Submissions
 
-1. Sample data stored as JSON under `App_Data` folder
-2. An API end point accepting parameters (policy number and/or member card number) and returns result according to the filer
+1. Sample mock data stored as JSON under `App_Data` folder
+2. An API end point accepting parameters (policy number and/or member card number) and return results matching the filter condition from the JSON records
 3. Unit tests scenarios: 
     * Both parameters are null and it should not return results
     * Search by policy number
