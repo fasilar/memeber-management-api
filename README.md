@@ -20,8 +20,11 @@ This project was generated with `.Net Core Web API` & `.Net Core xUnit Test`
 1. Separation of concerns
 2. Unit tests using `xUnit`
 
-## Limitations & Improvements Needed
+## Limitations
 
 1. Time Constraint
-2. Exception handling need to be done
-3. More unit tests can be included
+
+## Improvements Needed
+
+1. Exception handling need to be done
+2. More unit tests can be included
