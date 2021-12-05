@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M6a9xWTZV1Nbt/8muikiaKg+0wiEIyd0352tgGapkygaNBaX3p6aEuOvfBvmtHw+GfG7nn9v/B1m6Q7Yz/mtBw==",
+  "dgSpecHash": "opDdd1wd5sVXXrRG9Jo2pKX94zFicunIOX114YBoaAKAmy7EvH8eDOyiKPyyasJjTg03lCCsiEwAk06Dd/LkmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberManagement\\MemberManagement.csproj",
+  "projectFilePath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberManagement\\MemberManagement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

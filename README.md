@@ -4,7 +4,7 @@ This project was generated with `.Net Core Web API` & `.Net Core xUnit Test`
 
 ## Instructions
 
-1. Run this project and update the API URL in the client application `(Git Repo - https://github.com/fasilar/member-management-client.git)`
+1. Run the API project `(MemberManagement)` and update the API URL in the client application `(Git Repo - https://github.com/fasilar/member-management-client.git)`
 
 ## Submissions
 

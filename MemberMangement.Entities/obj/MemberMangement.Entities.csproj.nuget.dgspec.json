@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberMangement.Entities\\MemberMangement.Entities.csproj": {}
+    "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberMangement.Entities\\MemberMangement.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberMangement.Entities\\MemberMangement.Entities.csproj": {
+    "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberMangement.Entities\\MemberMangement.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberMangement.Entities\\MemberMangement.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberMangement.Entities\\MemberMangement.Entities.csproj",
         "projectName": "MemberMangement.Entities",
-        "projectPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberMangement.Entities\\MemberMangement.Entities.csproj",
+        "projectPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberMangement.Entities\\MemberMangement.Entities.csproj",
         "packagesPath": "C:\\Users\\fasilar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberMangement.Entities\\obj\\",
+        "outputPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberMangement.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fasilar\\AppData\\Roaming\\NuGet\\NuGet.Config",

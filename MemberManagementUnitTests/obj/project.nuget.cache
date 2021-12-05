@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3oVjVodvpr8brNt3LukqbQZ35NdQT5rH0o/vjL7hsBZsYYugzs1ZdJ8sFxW8nL8Oq3hi7ktBxJ6ufGAbKkBqCA==",
+  "dgSpecHash": "yFXdzgY5Htm1dS9vSfc5ta2qMEANRQIXIjWLEz7jIqKEwOOyF1UItqYM1yTvKRqoCjXjz1FdpZN6sL0c7SDLKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberManagementUnitTests\\MemberManagementUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberManagementUnitTests\\MemberManagementUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fasilar\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\fasilar\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

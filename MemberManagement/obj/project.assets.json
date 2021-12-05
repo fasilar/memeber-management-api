@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberManagement\\MemberManagement.csproj",
+      "projectUniqueName": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberManagement\\MemberManagement.csproj",
       "projectName": "MemberManagement",
-      "projectPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberManagement\\MemberManagement.csproj",
+      "projectPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberManagement\\MemberManagement.csproj",
       "packagesPath": "C:\\Users\\fasilar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberManagement\\obj\\",
+      "outputPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fasilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberManagement.DataLayer\\MemberManagement.DataLayer.csproj": {
-              "projectPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberManagement.DataLayer\\MemberManagement.DataLayer.csproj"
+            "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberManagement.DataLayer\\MemberManagement.DataLayer.csproj": {
+              "projectPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberManagement.DataLayer\\MemberManagement.DataLayer.csproj"
             },
-            "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberMangement.Entities\\MemberMangement.Entities.csproj": {
-              "projectPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberMangement.Entities\\MemberMangement.Entities.csproj"
+            "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberMangement.Entities\\MemberMangement.Entities.csproj": {
+              "projectPath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\memeber-management-api\\MemberMangement.Entities\\MemberMangement.Entities.csproj"
             }
           }
         }
