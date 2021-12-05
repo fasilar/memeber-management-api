@@ -11,8 +11,8 @@ This project was generated with `.Net Core Web API` & `.Net Core xUnit Test`
 1. Sample data stored as JSON under `App_Data` folder
 2. An API end point accepting parameters (policy number and/or member card number) and returns result according to the filer
 3. Unit tests scenarios: 
-⋅⋅* Both parameters are null and it should not return results
-⋅⋅* Search by policy number
+    * Both parameters are null and it should not return results
+    * Search by policy number
         
 ## Considerations & Decisions
 
