@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8sUqx08Yq3X9dHog+C8QbesF352kfzs0c8QTpQyaeJELsHQFhB2yB685AlENKZkdaWAlkmmB7Rfr6LMnLidJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fasilar\\Wokspaces\\Test Project\\Southern Cross\\MemberManagement.DataLayer\\MemberManagement.DataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fasilar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fasilar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

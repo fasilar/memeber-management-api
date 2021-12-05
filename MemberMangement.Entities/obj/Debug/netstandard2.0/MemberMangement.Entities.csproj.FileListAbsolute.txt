@@ -1,0 +1,9 @@
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\bin\Debug\netstandard2.0\MemberMangement.Entities.deps.json
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\bin\Debug\netstandard2.0\MemberMangement.Entities.dll
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\bin\Debug\netstandard2.0\MemberMangement.Entities.pdb
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\obj\Debug\netstandard2.0\MemberMangement.Entities.csprojAssemblyReference.cache
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\obj\Debug\netstandard2.0\MemberMangement.Entities.AssemblyInfoInputs.cache
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\obj\Debug\netstandard2.0\MemberMangement.Entities.AssemblyInfo.cs
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\obj\Debug\netstandard2.0\MemberMangement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\obj\Debug\netstandard2.0\MemberMangement.Entities.dll
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberMangement.Entities\obj\Debug\netstandard2.0\MemberMangement.Entities.pdb

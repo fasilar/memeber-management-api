@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MemberManagement.DataLayer\MemberManagement.DataLayer.csproj" />
+    <ProjectReference Include="..\MemberMangement.Entities\MemberMangement.Entities.csproj" />
+  </ItemGroup>
+
+
+</Project>

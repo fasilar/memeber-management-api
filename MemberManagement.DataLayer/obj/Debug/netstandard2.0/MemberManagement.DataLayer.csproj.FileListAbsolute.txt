@@ -1,0 +1,13 @@
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\bin\Debug\netstandard2.0\MemberManagement.DataLayer.deps.json
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\bin\Debug\netstandard2.0\MemberManagement.DataLayer.dll
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\bin\Debug\netstandard2.0\MemberManagement.DataLayer.pdb
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\bin\Debug\netstandard2.0\MemberMangement.Entities.dll
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\bin\Debug\netstandard2.0\MemberMangement.Entities.pdb
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\obj\Debug\netstandard2.0\MemberManagement.DataLayer.csprojAssemblyReference.cache
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\obj\Debug\netstandard2.0\MemberManagement.DataLayer.AssemblyInfoInputs.cache
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\obj\Debug\netstandard2.0\MemberManagement.DataLayer.AssemblyInfo.cs
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\obj\Debug\netstandard2.0\MemberManagement.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\obj\Debug\netstandard2.0\MemberManagement.DataLayer.csproj.CopyComplete
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\obj\Debug\netstandard2.0\MemberManagement.DataLayer.dll
+C:\Users\fasilar\Wokspaces\Test Project\Southern Cross\MemberManagement.DataLayer\obj\Debug\netstandard2.0\MemberManagement.DataLayer.pdb
